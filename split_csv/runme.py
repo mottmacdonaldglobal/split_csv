@@ -5,7 +5,7 @@ Helper functions to complement main split_csv function
     Check uniqueness of data in a certain column
     
 Author: Maria Mingallon
-Link to github: https://github.com/mottmacdonald/split_csv
+Link to github: https://github.com/mottmacdonaldglobal/split_csv
 
 """
 
