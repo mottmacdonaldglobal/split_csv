@@ -1,10 +1,8 @@
-Sample Module Repository
+Split a CSV
 ========================
 
-This simple project is an example repo for Python projects.
+Split a csv into several files based on row number
 
-`Learn more <http://www.kennethreitz.org/essays/repository-structure-and-python>`_.
-
----------------
-
-If you want to learn more about ``setup.py`` files, check out `this repository <https://github.com/kennethreitz/setup.py>`_.
+#### Practice: Any
+#### Sector: Cross-cutting
+#### Original Author: Maria Mingallon
